@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+
+    <!--Error-->
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_server">Ошибка сервера</string>
+
+    <!-- Video -->
+    <string name="video_success">Для просмотра видео нажмите на кнопку</string>
+    <string name="video_error_no_connect">Не удалось соединиться с сервером</string>
+    <string name="video_error_no_valid">Ссылка на видео некорректная</string>
+
+    <!-- VideoPlayer -->
+    <string name="error_video">Ошибка воспроизведения</string>
+</resources>
